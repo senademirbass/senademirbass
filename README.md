@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sena Demirbaş.</h1>
-- 🌱 I’m currently learning **JavaScript and Unity.**
+- 🌱 I’m currently learning JavaScript and Unity.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
