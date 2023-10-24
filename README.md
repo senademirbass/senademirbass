@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sena DEMİRBAŞ.</h1>
-<h3 align="center">I'm currently Jr. UI developer.</h3>
+<h3 align="center">I'm currently Front End Developer Intern.</h3>
 
-- 🌱 I’m currently learning **SCSS | REACT**
+- 🌱 I’m currently learning **REACT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
