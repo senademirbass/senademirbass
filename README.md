@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sena DEMİRBAŞ.</h1>
-<h3 align="center">I'm currently Mobile Developer Intern.</h3>
+<h3 align="center">I'm currently Jr. Mobile Application Developer</h3>
 
 - 🌱 I’m currently learning **React, React Native and TypeScript.**
 
