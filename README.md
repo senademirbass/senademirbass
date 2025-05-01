@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sena DEMİRBAŞ.</h1>
-<h3 align="center">I'm currently Jr. Mobile Application Developer</h3>
-
-- 🌱 I’m currently learning **React, React Native and TypeScript.**
+<h3 align="center">I'm currently information systems engineer. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
